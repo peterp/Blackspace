@@ -1,6 +1,6 @@
 ### Blackspace
 
-Blackspace is a simple application that adds "blank" spaces to the OS X dock. 
+Blackspace is an application that adds "blank" spaces to the OS X dock. 
 
 ![](https://github.com/peterp/Blackspace/blob/master/dock_example.png)
 
@@ -13,13 +13,13 @@ This is most commonly used as a way to seperate apps into logical categories.
 
 #### How does it work?
 
-It uses the following commands to achieve this, so if you're comfortable with using the Terminal then just do that.
+It uses the following commands to achieve this, so if you're comfortable with using the Terminal then just do the following:
 
 ```
-	defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
-	killall Dock
+	> defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
+	> killall Dock
 ```
 
-To remove a space, simply drag it off the Dock like you would any other icon.
+To remove a space drag it off the Dock, like you would any other icon.
 
 Enjoy.
