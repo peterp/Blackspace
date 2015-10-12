@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Void
+//  Blackspace
 //
 //  Created by Peter Pistorius on 12/10/15.
 //  Copyright © 2015 Peter Pistorius. All rights reserved.
