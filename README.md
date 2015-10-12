@@ -6,6 +6,8 @@ Blackspace is a simple application that adds "blank" spaces to the OS X dock.
 
 ####[Download](https://github.com/peterp/Blackspace/releases/download/1.0/Blackspace.app.zip)
 
+[Download Blackspace.app](https://github.com/peterp/Blackspace/releases/download/1.0/Blackspace.app.zip)
+
 
 #### How does it work?
 
