@@ -8,7 +8,7 @@ This is most commonly used as a way to seperate apps into logical categories.
 
 To remove a space drag it off the Dock, like you would any other icon.
 
-####[Download](https://github.com/peterp/Blackspace/releases/download/1.0/Blackspace.app.zip)
+#### [Download](https://github.com/peterp/Blackspace/releases/download/1.0/Blackspace.app.zip)
 
 [Download Blackspace.app](https://github.com/peterp/Blackspace/releases/download/1.0/Blackspace.app.zip)
 
@@ -21,7 +21,5 @@ It uses the following commands to achieve this, so if you're comfortable with us
 > defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
 > killall Dock
 ```
-
-
 
 Enjoy.
