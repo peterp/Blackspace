@@ -8,9 +8,9 @@ This is most commonly used as a way to seperate apps into logical categories.
 
 To remove a space drag it off the Dock, like you would any other icon.
 
-#### [Download](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.app.zip)
+#### [Download](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.zip)
 
-[Download Blackspace.app](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.app.zip)
+[Download Blackspace.app](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.zip)
 
 
 #### How does it work?
