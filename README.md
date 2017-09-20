@@ -4,14 +4,13 @@ Blackspace is an application that adds "blank" spaces (or "spacers") to the macO
 
 ![](https://github.com/perfaram/Blackspace/blob/master/dock_example.png)
 
-This is most commonly used as a way to seperate apps into logical categories.
+This is most commonly used as a way to place apps into logical categories.
 
 To remove a space drag it off the Dock, like you would any other icon.
 
-#### [Download](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.zip)
+#### Download
 
-[Download Blackspace.app](https://github.com/perfaram/Blackspace/releases/download/1.1/Blackspace.zip)
-
+[Download Blackspace.app](https://github.com/peterp/Blackspace/releases/download/1.1.0/Blackspace.zip)
 
 #### How does it work?
 
